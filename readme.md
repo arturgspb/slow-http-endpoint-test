@@ -1,0 +1,1 @@
+Use docker image: arturgspb/slow-http-endpoint-test
